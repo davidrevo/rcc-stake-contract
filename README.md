@@ -38,4 +38,6 @@ const RccToken = "0x264e0349deEeb6e8000D40213Daf18f8b3dF02c3";
 
 ```
 npx hardhat run scripts/RCCStake.js --network sepolia
+
+0xeADb491C4e288e0F3D4FB4b2e947c47d61b903Aa
 ```
